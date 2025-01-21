@@ -1,0 +1,16 @@
+{
+  "name": "dvhcvn",
+  "version": "1.0.0",
+  "description": "Dữ liệu được cập nhật từ trang [Danh mục hành chính](https://danhmuchanhchinh.gso.gov.vn/) của Tổng cục thống kê và [Hệ thống bản đồ hành chính](http://gis.chinhphu.vn) của Cổng thông tin điện tử Chính phủ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "geolib": "^3.3.4"
+  }
+}
